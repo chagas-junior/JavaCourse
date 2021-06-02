@@ -1,0 +1,16 @@
+package br.dell.modelos;
+
+public class Hospede {
+	private long CPF;
+	private long RG;
+	private String nome;
+	private int idade;
+	private String endereço;
+	public String getEndereço() {
+		return endereço;
+	}
+	public void setEndereço(String endereço) {
+		this.endereço = endereço;
+	}
+
+}

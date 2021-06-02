@@ -1,0 +1,10 @@
+package br.dell.modelos;
+
+public class Hospede {
+	private long CPF;
+	private long RG;
+	private String nome;
+	private int idade;
+	private String endereço;
+
+}

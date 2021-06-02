@@ -1,0 +1,7 @@
+package br.dell.modelos;
+
+public class Quarto {
+	private int numero;
+	private Hospede hospede;
+
+}
